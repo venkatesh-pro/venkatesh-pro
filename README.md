@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with Deep Learning Web App
 - 📫 How to reach me: 
-    >[Twitter](https://twitter.com/Venkate03139145)
+     1.[Twitter](https://twitter.com/Venkate03139145)
+     2.[Discord](https://discord.com/invite/HfTZAbNEzR)
 - 😄 Pronouns: He/His
 
